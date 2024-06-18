@@ -3,7 +3,7 @@
 ## Java Exercises (Arrays)
 
 **[CopyArray.java]** Write a method accepting a double[] and returning a copy of the initial double[] (see
-System.arraycopy()).
+Arrays.copyOf()).
 
 Examples:
 
